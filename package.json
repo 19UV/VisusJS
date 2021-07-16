@@ -1,0 +1,28 @@
+{
+  "name": "visusjs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19UV/VisusJS.git"
+  },
+  "keywords": [
+    "Telnet"
+  ],
+  "author": "19UV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19UV/VisusJS/issues"
+  },
+  "homepage": "https://github.com/19UV/VisusJS#readme",
+  "dependencies": {
+    "selfsigned": "^1.10.11",
+    "telnet": "0.0.1",
+    "webpack": "^5.45.1"
+  }
+}
